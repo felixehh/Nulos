@@ -1,0 +1,6 @@
+C:\Users\ricky\source\repos\Nulos\Nulos\bin\Debug\Nulos.exe
+C:\Users\ricky\source\repos\Nulos\Nulos\bin\Debug\Nulos.pdb
+C:\Users\ricky\source\repos\Nulos\Nulos\obj\Debug\Nulos.csprojResolveAssemblyReference.cache
+C:\Users\ricky\source\repos\Nulos\Nulos\obj\Debug\Nulos.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\Nulos\Nulos\obj\Debug\Nulos.exe
+C:\Users\ricky\source\repos\Nulos\Nulos\obj\Debug\Nulos.pdb
